@@ -5,4 +5,5 @@ I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://w
 - Python 3 (Jupyter Notebook)
 - LaTex, SPASS
 ## Contact
-- [Linkedin](https://linkedin.com/in/lorenzopegorari) 
+- [Linkedin](https://linkedin.com/in/lorenzopegorari)
+- [Personal site](https://lorenzopegorari.github.io/)
