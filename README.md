@@ -1,8 +1,6 @@
 # Lorenzo Pegorari
 I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
 
-**My main interests are in the fields of competitive programming and robotics.**
-
 ## Skills
 - HTML5, CSS3
 - Python 3 (Jupyter Notebook)
@@ -17,7 +15,8 @@ I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://w
 </br>
 
 ## Contact
-- [Personal site](https://lorenzopegorari.github.io/)
 - [Linkedin](https://linkedin.com/in/lorenzopegorari)
+- [GitLab](https://gitlab.gnome.org/LorenzoPegorari)
+- [StackOverflow]([https://leetcode.com/LorenzoPegorari/](https://stackoverflow.com/users/27418243/lorenzo-pegorari))
 - [LeetCode](https://leetcode.com/LorenzoPegorari/)
 - [Codeforces](https://codeforces.com/profile/LorePego)
