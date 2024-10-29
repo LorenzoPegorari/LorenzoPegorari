@@ -2,7 +2,7 @@
 I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
 
 ## Skills
-- HTML5, CSS3
+- HTML5, CSS3, Sass
 - Python 3 (Jupyter Notebook)
 - LaTex, SPASS
 
