@@ -1,9 +1,9 @@
 # Lorenzo Pegorari
-Hi, I'm Lorenzo, a 22 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
+Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
 
 <details>
 <summary>
-  More stuff about me
+    *More stuff about me*
 </summary>
 
 <div align="center">
