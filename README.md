@@ -1,18 +1,50 @@
 # Lorenzo Pegorari
-I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
+Hi, I'm Lorenzo, a 22 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
 
-## Skills
-- HTML5, CSS3, Sass
-- Python 3 (Jupyter Notebook)
-- LaTex, SPASS
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&title_color=F28F3B&bg_color=000000&text_color=E6EDF3&card_width=480" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&show_icons=true&title_color=F28F3B&bg_color=000000&text_color=E6EDF3&langs_count=4&layout=compact&card_width=480" />
-  </br>
 </div>
+
+## Skills
+### Application Development
+| Programming language | Proficiency         |
+| -------------------- | ------------------- |
+| C                    | Self evaluation: C  |
+| Python 3             | Self evaluation: C+ |
+| RISC-V               | Self evaluation: B- |
+| MIPS                 | Self evaluation: B- |
+### Web technologies
+| Programming language | Proficiency         |
+| -------------------- | ------------------- |
+| HTML5                | Self evaluation: B+ |
+| CSS                  | Self evaluation: B  |
+| SASS                 | Self evaluation: C+ |
+### Other languages
+| Programming language | Proficiency         |
+| -------------------- | ------------------- |
+| LaTex                | Self evaluation: B+ |
+| SPASS                | Self evaluation: C- |
+### Productivity utilities
+| Programming language | Proficiency         |
+| -------------------- | ------------------- |
+| Microsoft Office     | Self evaluation: B+ |
+| Microsoft Word       | Self evaluation: B  |
+| Google Sheets        | Self evaluation: B+ |
+
+## Languages
+| Language | Proficiency                                                          |
+| -------- | -------------------------------------------------------------------- |
+| English  | Full professional proficiency (Cambridge English FCE, CEFR Level C1) |
+| Italian  | Native language                                                      |
+  
+</details>
 
 ## My projects
 <div align="center">
@@ -21,7 +53,7 @@ I'm Lorenzo, a 21 years old italian student at [Politecnico di Milano](https://w
 </a>
 </div>
 
-## Contact
+## Contact me
 - [Linkedin](https://linkedin.com/in/lorenzopegorari)
 - [GitLab](https://gitlab.gnome.org/LorenzoPegorari)
 - [StackOverflow](https://stackoverflow.com/users/27418243/lorenzo-pegorari)
