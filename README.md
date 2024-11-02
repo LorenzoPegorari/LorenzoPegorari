@@ -3,7 +3,7 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 
 <details>
 <summary>
-    *More stuff about me*
+    <em>More stuff about me</em>
 </summary>
 
 <div align="center">
