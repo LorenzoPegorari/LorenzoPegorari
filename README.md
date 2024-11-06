@@ -7,9 +7,9 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 </summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&icon_color=C5B94A&border_color=E6EDF3&bg_color=060A10&show_icons=true&card_width=480&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&card_width=480&count_private=true&include_all_commits=true" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&border_color=E6EDF3&bg_color=060A10&layout=compact&card_width=480&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&border_color=F0F6FC&bg_color=060A10layout=compact&card_width=480&langs_count=4" />
 </div>
 
 ## Skills
@@ -49,7 +49,7 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 ## My projects
 <div align="center">
 <a href="https://github.com/LorenzoPegorari/SimplyColorful">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&icon_color=C5B94A&border_color=E6EDF3&bg_color=060A10&show_icons=true&description_lines_count=1&repo=SimplyColorful" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&description_lines_count=1&repo=SimplyColorful" />
 </a>
 </div>
 
