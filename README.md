@@ -7,9 +7,9 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 </summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues&title_color=F28F3B&bg_color=000000&text_color=E6EDF3&card_width=480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&icon_color=C5B94A&border_color=E6EDF3&bg_color=060A10&show_icons=true&card_width=480&count_private=true&include_all_commits=true" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&show_icons=true&title_color=F28F3B&bg_color=000000&text_color=E6EDF3&langs_count=4&layout=compact&card_width=480" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&border_color=E6EDF3&bg_color=060A10&layout=compact&card_width=480&langs_count=4" />
 </div>
 
 ## Skills
@@ -41,15 +41,15 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 ## Languages
 | Language | Proficiency                                                          |
 | -------- | -------------------------------------------------------------------- |
-| English  | Full professional proficiency (Cambridge English FCE, CEFR Level C1) |
 | Italian  | Native language                                                      |
+| English  | Full professional proficiency (Cambridge English FCE, CEFR Level C1) |
   
 </details>
 
 ## My projects
 <div align="center">
 <a href="https://github.com/LorenzoPegorari/SimplyColorful">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&repo=SimplyColorful&title_color=F28F3B&bg_color=000000&text_color=E6EDF3&card_width=480&description_lines_count=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=BF5A68&text_color=E6EDF3&icon_color=C5B94A&border_color=E6EDF3&bg_color=060A10&show_icons=true&description_lines_count=1&repo=SimplyColorful" />
 </a>
 </div>
 
