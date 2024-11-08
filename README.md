@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Lorenzo Pegorari </h1>
-    <p> Hi, I'm <bold>Lorenzo</bold>, a 22 years old italian student at <em>Politecnico di Milano</em>.</p>
+    <p> Hi, I'm <b>Lorenzo</b>, a 22 years old italian student at <em>Politecnico di Milano</em>.</p>
 </div>
 
 <details>
