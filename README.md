@@ -1,9 +1,11 @@
-# Lorenzo Pegorari
-Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](https://www.polimi.it/).
+<div align="center">
+    <h1> Lorenzo Pegorari </h1>
+    <p> Hi, I'm <bold>Lorenzo</bold>, a 22 years old italian student at <em>Politecnico di Milano</em>.</p>
+</div>
 
 <details>
 <summary>
-    <em>More stuff about me</em>
+    <em>More stuff about me...</em>
 </summary>
 
 <div align="center">
@@ -54,6 +56,7 @@ Hi, I'm **Lorenzo**, a 22 years old italian student at [Politecnico di Milano](h
 </div>
 
 ## Contact me
+- @uberlias (*Discord*)
 - [Linkedin](https://linkedin.com/in/lorenzopegorari)
 - [GitLab](https://gitlab.gnome.org/LorenzoPegorari)
 - [StackOverflow](https://stackoverflow.com/users/27418243/lorenzo-pegorari)
