@@ -51,7 +51,7 @@
 ## My projects
 <div align="center">
 <a href="https://github.com/LorenzoPegorari/SimplyColorful">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&description_lines_count=1&repo=SimplyColorful" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&description_lines_count=2&repo=SimplyColorful" />
 </a>
 </div>
 
