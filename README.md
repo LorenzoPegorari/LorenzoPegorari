@@ -9,9 +9,8 @@
 </summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&card_width=480&count_private=true&include_all_commits=true" />
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&border_color=F0F6FC&bg_color=060A10&layout=compact&card_width=480&langs_count=4" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&card_width=480&count_private=true&include_all_commits=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&border_color=F0F6FC&bg_color=060A10&layout=compact&card_width=320&langs_count=8" />
 </div>
 
 ## Skills
@@ -50,9 +49,9 @@
 
 ## My projects
 <div align="center">
-<a href="https://github.com/LorenzoPegorari/SimplyColorful">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&description_lines_count=2&repo=SimplyColorful" />
-</a>
+    <a href="https://github.com/LorenzoPegorari/SimplyColorful">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&description_lines_count=2&repo=SimplyColorful" />
+    </a>
 </div>
 
 ## Contact me
