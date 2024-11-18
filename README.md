@@ -8,9 +8,10 @@
     <em>More stuff about me...</em>
 </summary>
 
+<br />
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&border_color=F0F6FC&bg_color=060A10&layout=compact&card_width=320&langs_count=8" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&icon_color=E5D96A&border_color=F0F6FC&bg_color=060A10&show_icons=true&card_width=300&count_private=true&include_all_commits=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=DF7A88&text_color=B0B6BC&border_color=F0F6FC&bg_color=060A10&layout=compact&card_width=200&langs_count=8" />
 </div>
 
 ## Skills
