@@ -41,10 +41,10 @@
 | Google Sheets        | Self evaluation: B+ |
 
 ## Languages
-| Language | Proficiency                                                          |
-| -------- | -------------------------------------------------------------------- |
-| Italian  | Native language                                                      |
-| English  | Full professional proficiency (Cambridge English FCE, CEFR Level C1) |
+| Language | Proficiency                                                                 |
+| -------- | --------------------------------------------------------------------------- |
+| Italian  | Native language                                                             |
+| English  | Full professional proficiency (Cambridge English: First FCE, CEFR Level C1) |
   
 </details>
 
