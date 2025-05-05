@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=7&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,LongTimeUser,MultiLanguage,PullRequest,Repositories,Stars,?" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" />
 </div>
 
 ## Skills
