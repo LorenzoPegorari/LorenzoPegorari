@@ -5,7 +5,7 @@
 </div>
 
 <details>
-<summary>
+<summary align="center">
     <em>More stuff about me...</em>
 </summary>
 
@@ -20,25 +20,33 @@
 </div>
 
 ## Skills
+
 ### Application Development
+
 | Programming language | Proficiency         |
 | -------------------- | ------------------- |
 | C                    | Self evaluation: C  |
 | Python 3             | Self evaluation: C+ |
 | RISC-V               | Self evaluation: B- |
 | MIPS                 | Self evaluation: B- |
+
 ### Web technologies
+
 | Programming language | Proficiency         |
 | -------------------- | ------------------- |
 | HTML5                | Self evaluation: B+ |
 | CSS                  | Self evaluation: B  |
 | SASS                 | Self evaluation: C+ |
+
 ### Other languages
+
 | Programming language | Proficiency         |
 | -------------------- | ------------------- |
 | LaTex                | Self evaluation: B+ |
 | SPASS                | Self evaluation: C- |
+
 ### Productivity utilities
+
 | Programming language | Proficiency         |
 | -------------------- | ------------------- |
 | Microsoft Office     | Self evaluation: B+ |
@@ -46,6 +54,7 @@
 | Google Sheets        | Self evaluation: B+ |
 
 ## Languages
+
 | Language | Proficiency                                                                 |
 | -------- | --------------------------------------------------------------------------- |
 | Italian  | Native language                                                             |
@@ -54,6 +63,7 @@
 </details>
 
 ## My projects
+
 <div align="center">
     <a href="https://github.com/LorenzoPegorari/SimplyColorful">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=A5444D&text_color=F0F6FC&icon_color=F5E97A&border_color=3D444D&bg_color=0D1117&show_icons=true&description_lines_count=2&repo=SimplyColorful" />
@@ -61,6 +71,7 @@
 </div>
 
 ## Contact me
+
 - [Linkedin](https://linkedin.com/in/lorenzopegorari)
 - [GitLab](https://gitlab.gnome.org/LorenzoPegorari)
 - [LeetCode](https://leetcode.com/LorenzoPegorari/)
