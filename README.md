@@ -11,18 +11,12 @@
 
 <br />
 <div align="center">
-    <a href="https://github.com/LorenzoPegorari">
-        <img height=180 src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=A5444D&text_color=C0C6CC&icon_color=F5E97A&border_color=3D444D&bg_color=0D1117&show_icons=true&card_width=300&count_private=true&include_all_commits=true" />
-    </a>
-    <a href="https://github.com/LorenzoPegorari">
-        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=A5444D&text_color=E0E6EC&border_color=3D444D&bg_color=0D1117&layout=compact&card_width=200&langs_count=8" />
-    </a>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=LorenzoPegorari&title_color=A5444D&text_color=C0C6CC&icon_color=F5E97A&border_color=3D444D&bg_color=0D1117&show_icons=true&card_width=300&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPegorari&title_color=A5444D&text_color=E0E6EC&border_color=3D444D&bg_color=0D1117&layout=compact&card_width=200&langs_count=8" />
 </div>
 
 <div align="center">
-    <a href="https://github.com/LorenzoPegorari">
-        <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" />
 </div>
 
 ## Skills
