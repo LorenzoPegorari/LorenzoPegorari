@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Lorenzo Pegorari </h1>
-    <p> Hi, I'm <b>Lorenzo</b>, a 22 years old italian student at <em>Politecnico di Milano</em>.</p>
+    <p> Hi, I'm <b>Lorenzo</b>, a 22 years old italian student at <em>Politecnico di Milano</em> and <em>Google Summer of Code 2025</em> contributor at <a href="https://github.com/BRL-CAD">@BRL-CAD</a>.</p>
     <p> My Curriculum Vitae can be found <a href="https://lorenzopegorari.github.io/cv-resume/">here</a>.</p>
 </div>
 
