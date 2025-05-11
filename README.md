@@ -70,7 +70,6 @@
 
 <div align="center">
     <a href="https://github.com/LorenzoPegorari/SimplyColorful"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=A5444D&text_color=F0F6FC&icon_color=F5E97A&border_color=3D444D&bg_color=0D1117&show_icons=true&description_lines_count=2&repo=SimplyColorful" /></a>
-    ⠀<!--Before this comment there is an invisible character, used for spacing-->
     <a href="https://github.com/LorenzoPegorari/GSoC25-report"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LorenzoPegorari&title_color=A5444D&text_color=F0F6FC&icon_color=F5E97A&border_color=3D444D&bg_color=0D1117&show_icons=true&description_lines_count=2&repo=GSoC25-report" /></a>
 </div>
 
