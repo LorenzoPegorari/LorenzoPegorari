@@ -76,7 +76,6 @@
 ## Contact me
 
 - [Linkedin](https://linkedin.com/in/lorenzopegorari)
-- [GitLab](https://gitlab.gnome.org/LorenzoPegorari)
 - [LeetCode](https://leetcode.com/LorenzoPegorari/)
 - [StackOverflow](https://stackoverflow.com/users/27418243/lorenzo-pegorari)
 - [Codeforces](https://codeforces.com/profile/LorePego)
