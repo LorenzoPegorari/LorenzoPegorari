@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Lorenzo Pegorari</h1>
     <p>22 y/o from Italy</p>
-    <p>Student at <em>Politecnico di Milano</em></p>
-    <p><em>Google Summer of Code 2025</em> contributor for <a href="https://github.com/BRL-CAD">@BRL-CAD</a></p>
+    <p>Student at <em>Politecnico di Milano</em> (<em>Polytechnic University of Milan</em>)</p>
+    <p><a href="https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM">Google Summer of Code 2025</a> contributor for <a href="https://github.com/BRL-CAD">@BRL-CAD</a></p>
     <p>My Curriculum Vitae can be found <a href="https://lorenzopegorari.github.io/cv-resume/">here</a></p>
 </div>
 
