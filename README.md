@@ -3,7 +3,8 @@
     <p>22 y/o from Italy</p>
     <p>Student at <em>Politecnico di Milano</em> (<em>Polytechnic University of Milan</em>)</p>
     <p><a href="https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM">Google Summer of Code 2025</a> contributor for <a href="https://github.com/BRL-CAD">@BRL-CAD</a></p>
-    <p>My Curriculum Vitae can be found <a href="https://lorenzopegorari.github.io/cv-resume/">here</a></p>
+    <p><a href="https://lorenzopegorari.github.io/">Personal portfolio</a></p>
+    <p><a href="https://lorenzopegorari.github.io/cv-resume/">Curriculum Vitae</a></p>
 </div>
 
 <br />
@@ -20,10 +21,12 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" />
 </div>
 
 ## Skills
+
+<div align="center">
 
 ### Application Development
 
@@ -57,12 +60,14 @@
 | Microsoft Word       | Self evaluation: B  |
 | Google Sheets        | Self evaluation: B+ |
 
-## Languages
+### Spoken languages
 
 | Language | Proficiency                                                                 |
 | -------- | --------------------------------------------------------------------------- |
 | Italian  | Native language                                                             |
 | English  | Full professional proficiency (Cambridge English: First FCE, CEFR Level C1) |
+
+</div>
   
 </details>
 
