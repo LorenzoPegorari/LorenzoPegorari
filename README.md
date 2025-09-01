@@ -1,10 +1,15 @@
 <div align="center">
     <h1>Lorenzo Pegorari</h1>
-    <p>22 y/o from Italy</p>
-    <p>Student at <em>Politecnico di Milano</em> (<em>Polytechnic University of Milan</em>)</p>
-    <p><a href="https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM">Google Summer of Code 2025</a> contributor for <a href="https://github.com/BRL-CAD">@BRL-CAD</a></p>
-    <p><a href="https://lorenzopegorari.github.io/">Personal portfolio</a></p>
-    <p><a href="https://lorenzopegorari.github.io/cv-resume/">Curriculum Vitae</a></p>
+    <p>22 y/o from Italy
+        <br>
+        Student at <em>Politecnico di Milano</em> (<em>Polytechnic University of Milan</em>)
+        <br>
+        <a href="https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM">Google Summer of Code 2025</a> contributor for <a href="https://github.com/BRL-CAD">@BRL-CAD</a>
+        <br>
+        <a href="https://lorenzopegorari.github.io/">Personal portfolio</a>
+        <br>
+        <a href="https://lorenzopegorari.github.io/cv-resume/">Curriculum Vitae</a>
+    </p>
 </div>
 
 <br />
