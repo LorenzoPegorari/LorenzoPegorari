@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Lorenzo Pegorari</h1>
-    <p>22 y/o from Italy
+    <p>23 y/o from Italy
         <br>
         Student at <em>Politecnico di Milano</em> (<em>Polytechnic University of Milan</em>)
         <br>
