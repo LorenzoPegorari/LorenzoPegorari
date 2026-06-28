@@ -28,51 +28,6 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LorenzoPegorari&column=5&margin-w=4&margin-h=7&no-frame=true&no-bg=true&theme=monokai&title=Commits,Experience,PullRequest,Repositories,Stars" />
 </div>
-
-## Skills
-
-<div align="center">
-
-### Application Development
-
-| Programming language | Proficiency         |
-| -------------------- | ------------------- |
-| C                    | Self evaluation: C  |
-| Python 3             | Self evaluation: C+ |
-| RISC-V               | Self evaluation: B- |
-| MIPS                 | Self evaluation: B- |
-
-### Web technologies
-
-| Programming language | Proficiency         |
-| -------------------- | ------------------- |
-| HTML5                | Self evaluation: B+ |
-| CSS                  | Self evaluation: B  |
-| SASS                 | Self evaluation: C+ |
-
-### Other languages
-
-| Programming language | Proficiency         |
-| -------------------- | ------------------- |
-| LaTex                | Self evaluation: B+ |
-| SPASS                | Self evaluation: C- |
-
-### Productivity utilities
-
-| Programming language | Proficiency         |
-| -------------------- | ------------------- |
-| Microsoft Office     | Self evaluation: B+ |
-| Microsoft Word       | Self evaluation: B  |
-| Google Sheets        | Self evaluation: B+ |
-
-### Spoken languages
-
-| Language | Proficiency                                                                 |
-| -------- | --------------------------------------------------------------------------- |
-| Italian  | Native language                                                             |
-| English  | Full professional proficiency (Cambridge English: First FCE, CEFR Level C1) |
-
-</div>
   
 </details>
 
